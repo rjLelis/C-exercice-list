@@ -50,12 +50,12 @@ total de produtos de um determinado tipo vendidos por um vendedor.
 Sabendo que o valor unitário de cada produto é de R$ 10,00, calcule e
 escreva:
 
-a. O valor total da venda
+- O valor total da venda
 
-b. Sabendo que a comissão do vendedor é de 10%, calcule quanto
+- Sabendo que a comissão do vendedor é de 10%, calcule quanto
 ele irá ganhar
 
-c. Sabendo que o preço de venda do produto é R$ 2,50 mais caro
+- Sabendo que o preço de venda do produto é R$ 2,50 mais caro
 que o de compra, determine o lucro que o vendedor deu para a
 empresa
 
@@ -64,8 +64,8 @@ quantidades de pessoas do sexo masculino e feminino que aprovaram e
 que não aprovaram o lançamento de um determinado produto, em
 seguida calcule:
 
-a. O número total de pessoas entrevistadas
+- O número total de pessoas entrevistadas
 
-b. O percentual de aprovação e desaprovação
+- O percentual de aprovação e desaprovação
 
-c. O percentual de mulheres entrevistadas
+- O percentual de mulheres entrevistadas
